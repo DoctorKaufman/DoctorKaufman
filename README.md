@@ -21,6 +21,8 @@ Enthusiastic, motivated, self-disciplined and result-oriented IT student passion
 ![NLTK](https://img.shields.io/badge/-NLTK-85C1E9?style=flat)
 ![UDPipe](https://img.shields.io/badge/-UDPipe-008080?style=flat)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat)
+![fastText](https://img.shields.io/badge/-fastText-0054A6?style=flat)
+![FastAI](https://img.shields.io/badge/-FastAI-4B4B77?style=flat)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)

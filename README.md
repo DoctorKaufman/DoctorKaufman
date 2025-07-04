@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m passionate about software development and data science. Here is my technology stack:
+Enthusiastic, motivated, self-disciplined and result-oriented IT student passionate about programming and mathematics, continuously seeking opportunities for self-development as a specialist. Possess solid theoretical knowledge and good practical skills in Python, data analysis, machine learning, deep learning, etc. Eager to contribute to real-world Data Science projects in order to expand my skill set, and grow within a dynamic and innovative team.
 
 ### 🛠️ Tech Stack
 
